@@ -5,7 +5,7 @@ The project highlights the importance of cybersecurity by studying different typ
 # Author
 Saanvi Mittal 25BCE10473
 # Module 1
-Link-
+Link- https://canva.link/jjjafemxtg1vxnd
 ## Description
 This module is designed to build fundamental digital literacy skills, with a focus on creating and delivering impactful presentations using modern digital tools. It aims to enhance both communication and technical competencies required in academic and professional settings.
 Tools Included
@@ -22,7 +22,10 @@ Allows the addition of animations, making presentations more dynamic and engagin
 # Conclusion
 In conclusion, this module helps learners develop the skills needed to create professional, creative, and engaging presentations. It also encourages effective use of digital tools for communication, collaboration, and impactful content delivery.
 # Module 2 
-Link-
+Link- 
+Linkedin - https://www.linkedin.com/in/saanvi-mittal-7759b636b/
+Github - https://github.com/Saanvi960
+Stackoverflow - https://stackoverflow.com/users/32568415/saanvi-mittal
 ## Description
 In this module, I concentrated on developing and managing my professional digital presence across multiple platforms. I explored platforms such as LinkedIn, GitHub, Stack Overflow, and Kaggle, gaining practical insights into their usage. I learned how to create a strong and effective online profile by including my educational background, skills, and project work.
 
@@ -30,7 +33,9 @@ This module helped me recognize the importance of maintaining a professional ide
 
 Overall, it improved my ability to present my work effectively and engage with the technical community.
 # Module 3
-Link-
+Link- 
+Hackerrank - https://www.hackerrank.com/profile/m_saanviw
+Googleform - https://docs.google.com/forms/d/e/1FAIpQLSc-2_EzALyXLm4pr5m9l9IaizQl8DDhNaehgGJXKNYPnJmK4g/viewform?usp=publish-editor
 ## Description
 In this module, I explored various tools that enhance collaboration and support coding practice. I used platforms like Google Workspace—including Docs, Sheets, Slides, and Forms—to create, organize, and share content efficiently. Additionally, I practiced coding on platforms such as HackerRank by solving beginner-level problems.
 
